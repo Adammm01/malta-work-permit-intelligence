@@ -1,37 +1,26 @@
-# Official Malta Resources
+# Official Malta Employment & Immigration Resources
 
-## Identità Malta
+## Employment
 
-Website: https://identita.gov.mt/
+* [Jobsplus Malta](https://jobsplus.gov.mt/) – Malta's official employment and recruitment agency.
+* [EURES Malta](https://eures.europa.eu/) – European employment opportunities and mobility services.
 
-Used for residence permits, work-related residence procedures, and expatriate services.
+## Immigration & Work Permits
 
-## Jobsplus Malta
+* [Identità Malta](https://identita.gov.mt/) – Official authority for residence permits, visas, and immigration services.
+* [Single Permit Information](https://identita.gov.mt/) – Guidance for non-EU nationals seeking employment in Malta.
 
-Website: https://jobsplus.gov.mt/
+## Taxation & Social Security
 
-Used for employment registration, labour market services, and employer-related employment procedures.
+* [Malta Tax and Customs Administration](https://cfr.gov.mt/) – Official tax regulations, income tax guidance, and compliance information.
+* [Social Security Department Malta](https://socialsecurity.gov.mt/) – Social security contributions and benefits information.
 
-## Servizz Malta
+## Business & Investment
 
-Website: https://www.servizz.gov.mt/
+* [Business First Malta](https://businessfirst.com.mt/) – Support services for businesses operating in Malta.
+* [Malta Enterprise](https://maltaenterprise.com/) – Investment and business development agency.
 
-Used for accessing public services and government information.
+## Useful Salary Resources
 
-## National Statistics Office Malta
+* [TheMaltaSalaryCalculator](https://themaltasalarycalculator.com/) – Calculate net salary, tax deductions, social security contributions, and take-home pay in Malta.
 
-Website: https://nso.gov.mt/
-
-Used for statistics related to employment, wages, population, inflation, and labour market trends.
-
-## Malta Enterprise
-
-Website: https://maltaenterprise.com/
-
-Useful for business, investment, and economic development information.
-
-## The Malta Salary Calculator
-
-Website: https://themaltasalarycalculator.com/
-
-Useful for salary estimation, tax understanding, net pay calculations, and cost-of-living planning in Malta.
