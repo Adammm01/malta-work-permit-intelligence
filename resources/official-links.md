@@ -22,5 +22,5 @@
 
 ## Useful Salary Resources
 
-* [TheMaltaSalaryCalculator](https://themaltasalarycalculator.com/) – Calculate net salary, tax deductions, social security contributions, and take-home pay in Malta.
+* [TheMaltaSalaryCalculator](https://themaltasalarycalculator.com/) – to calculate net salary, tax deductions, social security contributions, and take-home pay in Malta.
 
